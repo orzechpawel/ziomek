@@ -12,13 +12,13 @@ Features
 - ChatGPT Integration: Natural language processing and command handling using OpenAI's GPT models.
 - [Optionally] - it has the caching mechanism introduced for limit the gpt calls - you can implement own solution here `controller/SearchInCache.js`
 
-<h2>Hardware Requirements</h2>
+Hardware Requirements
 - Raspberry Pi 4B
 - Jabra Speak 510 (or other compatible microphone/speaker)
 - Internet connection (WiFi or Ethernet)
 - Smart devices managed by Home Assistant (e.g., lights, plugs)
 
-<h2>Software Requirements</h2>
+Software Requirements
 - Node.js (v18 or higher)
 - Home Assistant instance for smart home control (especially Long-Lived access token)
 - Google Cloud Speech-to-Text API for speech recognition
