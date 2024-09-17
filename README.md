@@ -1,6 +1,8 @@
 <h1>Ziomek: IoT Voice Assistant (Node.js)</h1>
 Ziomek is a Node.js-based IoT voice assistant project designed for the Raspberry Pi 4B, using a Jabra Speak 510 as the microphone and speaker. It works in conjunction with Home Assistant to control your smart devices, uses Google Speech-to-Text for voice recognition, and leverages ChatGPT for natural language understanding and conversation analysis.
 
+https://github.com/user-attachments/assets/0bfee80c-e16a-48cc-92e1-b339bc1cb6f9
+
 The assistant reacts to the wake words "Hej ziomek," listens to your commands, and performs tasks like controlling devices, checking flight information (for AvGeeks), getting weather updates, and adding items to a personalized shopping list.
 
 Features
