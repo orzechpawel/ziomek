@@ -1,0 +1,39 @@
+[
+  {
+    "name": "DEVICE_KITCHEN",
+    "id": "switch.sonoff_..."
+  },
+  {
+    "name": "DEVICE_ISLAND",
+    "id": "switch.sonoff_..."
+  },
+  {
+    "name": "DEVICE_LED",
+    "id": "switch.sonoff_..."
+  },
+  {
+    "name": "DEVICE_OCTOPUS_1",
+    "id": "switch.sonoff_..."
+  },
+  {
+    "name": "DEVICE_OCTOPUS_2",
+    "id": "switch.sonoff_..."
+  },
+  {
+    "name": "DEVICE_STANDING_LAMP",
+    "id": "switch.sonoff_..."
+  },
+  {
+    "name": "DEVICE_LAMEL",
+    "id": "light.controller_dimmable_..."
+  },
+  {
+    "name": "DEVICE_TV",
+    "id": "remote...."
+  },
+  {
+   "name": "DEVICE_AC",
+   "id": "climate...."
+  }
+
+]
